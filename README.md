@@ -1,1 +1,6 @@
-# apollo-refetch
+## Setup
+
+```bash
+npm install
+npm test
+```
